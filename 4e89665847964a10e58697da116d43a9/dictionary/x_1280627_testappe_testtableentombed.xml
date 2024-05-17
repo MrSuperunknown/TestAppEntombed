@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="880a665047d64a10e58697da116d4306" label="TestTableEntombed" max_length="40" name="x_1280627_testappe_testtableentombed" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Info" mandatory="true" max_length="120" name="info" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requester" mandatory="true" max_length="120" name="requester" type="string"/>
+    </element>
+</database>
